@@ -4,7 +4,7 @@ export const company = {
   name: "FLEETCOR TECHNOLOGIES PRIVATE LIMITED",
   shortName: "FLEETCOR TECHNOLOGIES",
   tagline: "Transforming Ideas Into Scalable Digital Products",
-  email: "info@fleetcortech.in",
+  email: "info@fleetcortechnologies.com",
   founded: "2021",
   primaryAddress:
     "Office No. 1416, Ghanshyam Enclave Premises, Link Road, Lalji Pada Signal, Kandivali West, Mumbai, Maharashtra, India - 400067",
